@@ -15,3 +15,15 @@ Here is the steps to make local setup for this project
  ``` php artisan db:seed --class=ReferralLinkTableSeeder ```
  
  
+## login/singup screen
+
+![arn](./public/img/login.png)
+
+## user dashboard
+![arn](./public/img/user.png)
+
+
+## admin dashboard
+
+![arn](./public/img/admin.png)
+
