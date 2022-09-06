@@ -14,7 +14,11 @@ Here is the steps to make local setup for this project
  ``` php artisan db:seed --class=ReferralProgramTableSeeder ```  
  ``` php artisan db:seed --class=ReferralLinkTableSeeder ```
  
- 
+
+- Run tests
+
+``` php artisan test ```
+
 ## login/singup screen
 
 ![arn](./public/img/login.png)
